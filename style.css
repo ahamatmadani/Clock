@@ -1,0 +1,29 @@
+body{
+    background: #101727;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.container{
+    background: linear-gradient(135deg, #7085b6, #0a3477);
+    padding: 32px 48px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 20px 40px rgba(255, 253, 253, 0.08);
+
+}
+.time{
+    font-size: 64px;
+    font-weight: 700;
+    color: beige;
+    letter-spacing: 2px;
+}
+.date{
+      margin-top: 12px;
+      font-size: 20px;
+      font-weight: 500;
+      color: rgb(142, 168, 168);
+
+}
